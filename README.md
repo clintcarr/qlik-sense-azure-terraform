@@ -1,4 +1,4 @@
-# Qlik Sense AMI deployment - AWS
+# Qlik Sense VM deployment - Azure
 
 ## Pre-requisites
 1. A Microsoft Azure account
