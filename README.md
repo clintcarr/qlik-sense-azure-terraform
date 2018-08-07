@@ -4,6 +4,7 @@
 1. A Microsoft Azure account
 2. An identity created in Azure Active Directory for Terraform to be able to use the Azure APIs (https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal)
 3. Qlik Sense license
+4. Accept the Qlik Sense Enterprise license terms via the Azure Marketplace
 
 ## Instructions
 1. Download and install Terraform (https://releases.hashicorp.com/terraform/0.11.7/terraform_0.11.7_windows_amd64.zip)
